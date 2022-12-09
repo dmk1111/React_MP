@@ -24,7 +24,7 @@
   "homepage": "https://github.com/dmk1111/React_MP#readme",
   "dependencies": {
     "csstype": "^2.6.3",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "react": "^16.8.6",
     "react-dom": "^16.8.6"
   },
